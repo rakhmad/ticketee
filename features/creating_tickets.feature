@@ -7,7 +7,7 @@ Feature: Creating Tickets
 		Given there is a project called "Internet Explorer"
 		And I am on the homepage
 		When I follow "Internet Explorer"
-		And I follow "Internet Explorer"
+		And I follow "New Ticket"
 		
 	Scenario: Creating a ticket
 		When I fill in "Title" with "Non-standards compliance"
