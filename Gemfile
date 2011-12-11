@@ -40,4 +40,5 @@ group :test do
   gem 'dynamic_form'
   gem 'capybara'
   gem 'database_cleaner'
+  gem 'factory_girl'
 end
