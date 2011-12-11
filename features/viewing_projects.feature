@@ -9,4 +9,3 @@ Feature: Viewing projects
 		When I follow "TextMate 2"
 		Then I should be on the project page for "TextMate 2"
 	
-	
